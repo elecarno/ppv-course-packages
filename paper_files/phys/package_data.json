@@ -1,0 +1,203 @@
+{
+    "course": "phys",
+    "data": {
+        "ah": {
+            "2018": [
+                {
+                    "name": "phys_ah_2018_all",
+                    "path": "ah\\2018\\phys_ah_2018_all.pdf",
+                    "mi": {
+                        "name": "phys_ah_2018_all_mi",
+                        "path": "ah\\2018\\phys_ah_2018_all_mi.pdf"
+                    }
+                }
+            ],
+            "2019": [
+                {
+                    "name": "phys_ah_2019_all",
+                    "path": "ah\\2019\\phys_ah_2019_all.pdf",
+                    "mi": {
+                        "name": "phys_ah_2019_all_mi",
+                        "path": "ah\\2019\\phys_ah_2019_all_mi.pdf"
+                    }
+                }
+            ],
+            "2022": [
+                {
+                    "name": "phys_ah_2022_qp",
+                    "path": "ah\\2022\\phys_ah_2022_qp.pdf",
+                    "mi": {
+                        "name": "phys_ah_2022_qp_mi",
+                        "path": "ah\\2022\\phys_ah_2022_qp_mi.pdf"
+                    },
+                    "sp": {
+                        "name": "phys_ah_2022_qp_sp",
+                        "path": "ah\\2022\\phys_ah_2022_qp_sp.pdf"
+                    }
+                }
+            ],
+            "2023": [
+                {
+                    "name": "phys_ah_2023_qp",
+                    "path": "ah\\2023\\phys_ah_2023_qp.pdf",
+                    "mi": {
+                        "name": "phys_ah_2023_qp_mi",
+                        "path": "ah\\2023\\phys_ah_2023_qp_mi.pdf"
+                    },
+                    "sp": {
+                        "name": "phys_ah_2023_qp_sp",
+                        "path": "ah\\2023\\phys_ah_2023_qp_sp.pdf"
+                    }
+                }
+            ]
+        },
+        "n5": {
+            "2018": [
+                {
+                    "name": "phys_n5_2018_all",
+                    "path": "n5\\2018\\phys_n5_2018_all.pdf",
+                    "mi": {
+                        "name": "phys_n5_2018_all_mi",
+                        "path": "n5\\2018\\phys_n5_2018_all_mi.pdf"
+                    }
+                }
+            ],
+            "2019": [
+                {
+                    "name": "phys_n5_2019_all",
+                    "path": "n5\\2019\\phys_n5_2019_all.pdf",
+                    "mi": {
+                        "name": "phys_n5_2019_all_mi",
+                        "path": "n5\\2019\\phys_n5_2019_all_mi.pdf"
+                    }
+                }
+            ],
+            "2022": [
+                {
+                    "name": "phys_n5_2022_s1",
+                    "path": "n5\\2022\\phys_n5_2022_s1.pdf",
+                    "mi": {
+                        "name": "phys_n5_2022_s1_mi",
+                        "path": "n5\\2022\\phys_n5_2022_s1_mi.pdf"
+                    },
+                    "sp": {
+                        "name": "phys_n5_2022_s1_sp",
+                        "path": "n5\\2022\\phys_n5_2022_s1_sp.pdf"
+                    }
+                },
+                {
+                    "name": "phys_n5_2022_s2",
+                    "path": "n5\\2022\\phys_n5_2022_s2.pdf",
+                    "mi": {
+                        "name": "phys_n5_2022_s2_mi",
+                        "path": "n5\\2022\\phys_n5_2022_s2_mi.pdf"
+                    },
+                    "sp": {
+                        "name": "phys_n5_2022_s2_sp",
+                        "path": "n5\\2022\\phys_n5_2022_s2_sp.pdf"
+                    }
+                }
+            ],
+            "2023": [
+                {
+                    "name": "phys_n5_2023_s1",
+                    "path": "n5\\2023\\phys_n5_2023_s1.pdf",
+                    "mi": {
+                        "name": "phys_n5_2023_s1_mi",
+                        "path": "n5\\2023\\phys_n5_2023_s1_mi.pdf"
+                    },
+                    "sp": {
+                        "name": "phys_n5_2023_s1_sp",
+                        "path": "n5\\2023\\phys_n5_2023_s1_sp.pdf"
+                    }
+                },
+                {
+                    "name": "phys_n5_2023_s2",
+                    "path": "n5\\2023\\phys_n5_2023_s2.pdf",
+                    "mi": {
+                        "name": "phys_n5_2023_s2_mi",
+                        "path": "n5\\2023\\phys_n5_2023_s2_mi.pdf"
+                    },
+                    "sp": {
+                        "name": "phys_n5_2023_s2_sp",
+                        "path": "n5\\2023\\phys_n5_2023_s2_sp.pdf"
+                    }
+                }
+            ]
+        },
+        "nh": {
+            "2018": [
+                {
+                    "name": "phys_nh_2018_all",
+                    "path": "nh\\2018\\phys_nh_2018_all.pdf",
+                    "mi": {
+                        "name": "phys_nh_2018_all_mi",
+                        "path": "nh\\2018\\phys_nh_2018_all_mi.pdf"
+                    }
+                }
+            ],
+            "2019": [
+                {
+                    "name": "phys_nh_2019_all",
+                    "path": "nh\\2019\\phys_nh_2019_all.pdf",
+                    "mi": {
+                        "name": "phys_nh_2019_all_mi",
+                        "path": "nh\\2019\\phys_nh_2019_all_mi.pdf"
+                    }
+                }
+            ],
+            "2022": [
+                {
+                    "name": "phys_nh_2022_p1",
+                    "path": "nh\\2022\\phys_nh_2022_p1.pdf",
+                    "mi": {
+                        "name": "phys_nh_2022_p1_mi",
+                        "path": "nh\\2022\\phys_nh_2022_p1_mi.pdf"
+                    },
+                    "sp": {
+                        "name": "phys_nh_2022_p1_sp",
+                        "path": "nh\\2022\\phys_nh_2022_p1_sp.pdf"
+                    }
+                },
+                {
+                    "name": "phys_nh_2022_p2",
+                    "path": "nh\\2022\\phys_nh_2022_p2.pdf",
+                    "mi": {
+                        "name": "phys_nh_2022_p2_mi",
+                        "path": "nh\\2022\\phys_nh_2022_p2_mi.pdf"
+                    },
+                    "sp": {
+                        "name": "phys_nh_2022_p2_sp",
+                        "path": "nh\\2022\\phys_nh_2022_p2_sp.pdf"
+                    }
+                }
+            ],
+            "2023": [
+                {
+                    "name": "phys_nh_2023_p1",
+                    "path": "nh\\2023\\phys_nh_2023_p1.pdf",
+                    "mi": {
+                        "name": "phys_nh_2023_p1_mi",
+                        "path": "nh\\2023\\phys_nh_2023_p1_mi.pdf"
+                    },
+                    "sp": {
+                        "name": "phys_nh_2023_p1_sp",
+                        "path": "nh\\2023\\phys_nh_2023_p1_sp.pdf"
+                    }
+                },
+                {
+                    "name": "phys_nh_2023_p2",
+                    "path": "nh\\2023\\phys_nh_2023_p2.pdf",
+                    "mi": {
+                        "name": "phys_nh_2023_p2_mi",
+                        "path": "nh\\2023\\phys_nh_2023_p2_mi.pdf"
+                    },
+                    "sp": {
+                        "name": "phys_nh_2023_p2_sp",
+                        "path": "nh\\2023\\phys_nh_2023_p2_sp.pdf"
+                    }
+                }
+            ]
+        }
+    }
+}

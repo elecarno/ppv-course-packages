@@ -1,0 +1,179 @@
+{
+    "course": "geo",
+    "data": {
+        "ah": {
+            "2018": [
+                {
+                    "name": "geo_ah_2018_all",
+                    "path": "ah\\2018\\geo_ah_2018_all.pdf"
+                },
+                {
+                    "name": "geo_ah_2018_qp_mi",
+                    "path": "ah\\2018\\geo_ah_2018_qp_mi.pdf"
+                }
+            ],
+            "2019": [
+                {
+                    "name": "geo_ah_2019_all",
+                    "path": "ah\\2019\\geo_ah_2019_all.pdf"
+                },
+                {
+                    "name": "geo_ah_2019_qp_mi",
+                    "path": "ah\\2019\\geo_ah_2019_qp_mi.pdf"
+                }
+            ],
+            "2022": [
+                {
+                    "name": "geo_ah_2022_qp",
+                    "path": "ah\\2022\\geo_ah_2022_qp.pdf",
+                    "mi": {
+                        "name": "geo_ah_2022_qp_mi",
+                        "path": "ah\\2022\\geo_ah_2022_qp_mi.pdf"
+                    },
+                    "sp": {
+                        "name": "geo_ah_2022_qp_sp",
+                        "path": "ah\\2022\\geo_ah_2022_qp_sp.pdf"
+                    }
+                }
+            ],
+            "2023": [
+                {
+                    "name": "geo_ah_2023_qp",
+                    "path": "ah\\2023\\geo_ah_2023_qp.pdf",
+                    "mi": {
+                        "name": "geo_ah_2023_qp_mi",
+                        "path": "ah\\2023\\geo_ah_2023_qp_mi.pdf"
+                    },
+                    "sp": {
+                        "name": "geo_ah_2023_qp_sp",
+                        "path": "ah\\2023\\geo_ah_2023_qp_sp.pdf"
+                    }
+                }
+            ]
+        },
+        "n5": {
+            "2018": [
+                {
+                    "name": "geo_n5_2018_all",
+                    "path": "n5\\2018\\geo_n5_2018_all.pdf"
+                },
+                {
+                    "name": "geo_n5_2018_qp_mi",
+                    "path": "n5\\2018\\geo_n5_2018_qp_mi.pdf"
+                }
+            ],
+            "2019": [
+                {
+                    "name": "geo_n5_2019_all",
+                    "path": "n5\\2019\\geo_n5_2019_all.pdf"
+                },
+                {
+                    "name": "geo_n5_2019_qp_mi",
+                    "path": "n5\\2019\\geo_n5_2019_qp_mi.pdf"
+                }
+            ],
+            "2022": [
+                {
+                    "name": "geo_n5_2022_qp",
+                    "path": "n5\\2022\\geo_n5_2022_qp.pdf",
+                    "mi": {
+                        "name": "geo_n5_2022_qp_mi",
+                        "path": "n5\\2022\\geo_n5_2022_qp_mi.pdf"
+                    },
+                    "sp": {
+                        "name": "geo_n5_2022_qp_sp",
+                        "path": "n5\\2022\\geo_n5_2022_qp_sp.pdf"
+                    }
+                }
+            ],
+            "2023": [
+                {
+                    "name": "geo_n5_2023_qp",
+                    "path": "n5\\2023\\geo_n5_2023_qp.pdf",
+                    "mi": {
+                        "name": "geo_n5_2023_qp_mi",
+                        "path": "n5\\2023\\geo_n5_2023_qp_mi.pdf"
+                    },
+                    "sp": {
+                        "name": "geo_n5_2023_qp_sp",
+                        "path": "n5\\2023\\geo_n5_2023_qp_sp.pdf"
+                    }
+                }
+            ]
+        },
+        "nh": {
+            "2018": [
+                {
+                    "name": "geo_nh_2018_all",
+                    "path": "nh\\2018\\geo_nh_2018_all.pdf"
+                },
+                {
+                    "name": "geo_nh_2018_qp_mi",
+                    "path": "nh\\2018\\geo_nh_2018_qp_mi.pdf"
+                }
+            ],
+            "2019": [
+                {
+                    "name": "geo_nh_2019_all",
+                    "path": "nh\\2019\\geo_nh_2019_all.pdf",
+                    "mi": {
+                        "name": "geo_nh_2019_all_mi",
+                        "path": "nh\\2019\\geo_nh_2019_all_mi.pdf"
+                    }
+                }
+            ],
+            "2022": [
+                {
+                    "name": "geo_nh_2022_gg",
+                    "path": "nh\\2022\\geo_nh_2022_gg.pdf",
+                    "mi": {
+                        "name": "geo_nh_2022_gg_mi",
+                        "path": "nh\\2022\\geo_nh_2022_gg_mi.pdf"
+                    },
+                    "sp": {
+                        "name": "geo_nh_2022_gg_sp",
+                        "path": "nh\\2022\\geo_nh_2022_gg_sp.pdf"
+                    }
+                },
+                {
+                    "name": "geo_nh_2022_ph",
+                    "path": "nh\\2022\\geo_nh_2022_ph.pdf",
+                    "mi": {
+                        "name": "geo_nh_2022_ph_mi",
+                        "path": "nh\\2022\\geo_nh_2022_ph_mi.pdf"
+                    },
+                    "sp": {
+                        "name": "geo_nh_2022_ph_sp",
+                        "path": "nh\\2022\\geo_nh_2022_ph_sp.pdf"
+                    }
+                }
+            ],
+            "2023": [
+                {
+                    "name": "geo_nh_2023_gg",
+                    "path": "nh\\2023\\geo_nh_2023_gg.pdf",
+                    "mi": {
+                        "name": "geo_nh_2023_gg_mi",
+                        "path": "nh\\2023\\geo_nh_2023_gg_mi.pdf"
+                    },
+                    "sp": {
+                        "name": "geo_nh_2023_gg_sp",
+                        "path": "nh\\2023\\geo_nh_2023_gg_sp.pdf"
+                    }
+                },
+                {
+                    "name": "geo_nh_2023_ph",
+                    "path": "nh\\2023\\geo_nh_2023_ph.pdf",
+                    "mi": {
+                        "name": "geo_nh_2023_ph_mi",
+                        "path": "nh\\2023\\geo_nh_2023_ph_mi.pdf"
+                    },
+                    "sp": {
+                        "name": "geo_nh_2023_ph_sp",
+                        "path": "nh\\2023\\geo_nh_2023_ph_sp.pdf"
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "course": "prw",
+    "data": {
+        "n5": {
+            "2018": [
+                {
+                    "name": "prw_n5_2018_qp",
+                    "path": "n5\\2018\\prw_n5_2018_qp.pdf",
+                    "mi": {
+                        "name": "prw_n5_2018_qp_mi",
+                        "path": "n5\\2018\\prw_n5_2018_qp_mi.pdf"
+                    }
+                }
+            ],
+            "2019": [
+                {
+                    "name": "prw_n5_2019_qp",
+                    "path": "n5\\2019\\prw_n5_2019_qp.pdf",
+                    "mi": {
+                        "name": "prw_n5_2019_qp_mi",
+                        "path": "n5\\2019\\prw_n5_2019_qp_mi.pdf"
+                    }
+                }
+            ]
+        }
+    }
+}

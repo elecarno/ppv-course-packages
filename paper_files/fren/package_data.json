@@ -1,0 +1,235 @@
+{
+    "course": "fren",
+    "data": {
+        "ah": {
+            "2018": [
+                {
+                    "name": "fren_ah_2018_all",
+                    "path": "ah\\2018\\fren_ah_2018_all.pdf",
+                    "mi": {
+                        "name": "fren_ah_2018_all_mi",
+                        "path": "ah\\2018\\fren_ah_2018_all_mi.pdf"
+                    }
+                }
+            ],
+            "2019": [
+                {
+                    "name": "fren_ah_2019_all",
+                    "path": "ah\\2019\\fren_ah_2019_all.pdf",
+                    "mi": {
+                        "name": "fren_ah_2019_all_mi",
+                        "path": "ah\\2019\\fren_ah_2019_all_mi.pdf"
+                    }
+                }
+            ],
+            "2022": [
+                {
+                    "name": "fren_ah_2022_li",
+                    "path": "ah\\2022\\fren_ah_2022_li.pdf",
+                    "mi": {
+                        "name": "fren_ah_2022_li_mi",
+                        "path": "ah\\2022\\fren_ah_2022_li_mi.pdf"
+                    },
+                    "sp": {
+                        "name": "fren_ah_2022_li_sp",
+                        "path": "ah\\2022\\fren_ah_2022_li_sp.pdf"
+                    }
+                },
+                {
+                    "name": "fren_ah_2022_re",
+                    "path": "ah\\2022\\fren_ah_2022_re.pdf",
+                    "mi": {
+                        "name": "fren_ah_2022_re_mi",
+                        "path": "ah\\2022\\fren_ah_2022_re_mi.pdf"
+                    }
+                }
+            ],
+            "2023": [
+                {
+                    "name": "fren_ah_2023_li",
+                    "path": "ah\\2023\\fren_ah_2023_li.pdf",
+                    "mi": {
+                        "name": "fren_ah_2023_li_mi",
+                        "path": "ah\\2023\\fren_ah_2023_li_mi.pdf"
+                    },
+                    "sp": {
+                        "name": "fren_ah_2023_li_sp",
+                        "path": "ah\\2023\\fren_ah_2023_li_sp.pdf"
+                    }
+                },
+                {
+                    "name": "fren_ah_2023_re",
+                    "path": "ah\\2023\\fren_ah_2023_re.pdf",
+                    "mi": {
+                        "name": "fren_ah_2023_re_mi",
+                        "path": "ah\\2023\\fren_ah_2023_re_mi.pdf"
+                    }
+                }
+            ]
+        },
+        "n5": {
+            "2018": [
+                {
+                    "name": "fren_n5_2018_all",
+                    "path": "n5\\2018\\fren_n5_2018_all.pdf",
+                    "mi": {
+                        "name": "fren_n5_2018_all_mi",
+                        "path": "n5\\2018\\fren_n5_2018_all_mi.pdf"
+                    }
+                }
+            ],
+            "2019": [
+                {
+                    "name": "fren_n5_2019_all",
+                    "path": "n5\\2019\\fren_n5_2019_all.pdf",
+                    "mi": {
+                        "name": "fren_n5_2019_all_mi",
+                        "path": "n5\\2019\\fren_n5_2019_all_mi.pdf"
+                    }
+                }
+            ],
+            "2022": [
+                {
+                    "name": "fren_n5_2022_li",
+                    "path": "n5\\2022\\fren_n5_2022_li.pdf",
+                    "mi": {
+                        "name": "fren_n5_2022_li_mi",
+                        "path": "n5\\2022\\fren_n5_2022_li_mi.pdf"
+                    },
+                    "sp": {
+                        "name": "fren_n5_2022_li_sp",
+                        "path": "n5\\2022\\fren_n5_2022_li_sp.pdf"
+                    }
+                },
+                {
+                    "name": "fren_n5_2022_qp",
+                    "path": "n5\\2022\\fren_n5_2022_qp.pdf",
+                    "mi": {
+                        "name": "fren_n5_2022_qp_mi",
+                        "path": "n5\\2022\\fren_n5_2022_qp_mi.pdf"
+                    }
+                },
+                {
+                    "name": "fren_n5_2022_re",
+                    "path": "n5\\2022\\fren_n5_2022_re.pdf",
+                    "mi": {
+                        "name": "fren_n5_2022_re_mi",
+                        "path": "n5\\2022\\fren_n5_2022_re_mi.pdf"
+                    }
+                }
+            ],
+            "2023": [
+                {
+                    "name": "fren_n5_2023_li",
+                    "path": "n5\\2023\\fren_n5_2023_li.pdf",
+                    "mi": {
+                        "name": "fren_n5_2023_li_mi",
+                        "path": "n5\\2023\\fren_n5_2023_li_mi.pdf"
+                    },
+                    "sp": {
+                        "name": "fren_n5_2023_li_sp",
+                        "path": "n5\\2023\\fren_n5_2023_li_sp.pdf"
+                    }
+                },
+                {
+                    "name": "fren_n5_2023_qp",
+                    "path": "n5\\2023\\fren_n5_2023_qp.pdf",
+                    "mi": {
+                        "name": "fren_n5_2023_qp_mi",
+                        "path": "n5\\2023\\fren_n5_2023_qp_mi.pdf"
+                    }
+                },
+                {
+                    "name": "fren_n5_2023_re",
+                    "path": "n5\\2023\\fren_n5_2023_re.pdf",
+                    "mi": {
+                        "name": "fren_n5_2023_re_mi",
+                        "path": "n5\\2023\\fren_n5_2023_re_mi.pdf"
+                    }
+                }
+            ]
+        },
+        "nh": {
+            "2018": [
+                {
+                    "name": "fren_nh_2018_all",
+                    "path": "nh\\2018\\fren_nh_2018_all.pdf",
+                    "mi": {
+                        "name": "fren_nh_2018_all_mi",
+                        "path": "nh\\2018\\fren_nh_2018_all_mi.pdf"
+                    }
+                }
+            ],
+            "2019": [
+                {
+                    "name": "fren_nh_2019_all",
+                    "path": "nh\\2019\\fren_nh_2019_all.pdf",
+                    "mi": {
+                        "name": "fren_nh_2019_all_mi",
+                        "path": "nh\\2019\\fren_nh_2019_all_mi.pdf"
+                    }
+                }
+            ],
+            "2022": [
+                {
+                    "name": "fren_nh_2022_dw",
+                    "path": "nh\\2022\\fren_nh_2022_dw.pdf",
+                    "mi": {
+                        "name": "fren_nh_2022_dw_mi",
+                        "path": "nh\\2022\\fren_nh_2022_dw_mi.pdf"
+                    }
+                },
+                {
+                    "name": "fren_nh_2022_li",
+                    "path": "nh\\2022\\fren_nh_2022_li.pdf",
+                    "mi": {
+                        "name": "fren_nh_2022_li_mi",
+                        "path": "nh\\2022\\fren_nh_2022_li_mi.pdf"
+                    },
+                    "sp": {
+                        "name": "fren_nh_2022_li_sp",
+                        "path": "nh\\2022\\fren_nh_2022_li_sp.pdf"
+                    }
+                },
+                {
+                    "name": "fren_nh_2022_re",
+                    "path": "nh\\2022\\fren_nh_2022_re.pdf",
+                    "mi": {
+                        "name": "fren_nh_2022_re_mi",
+                        "path": "nh\\2022\\fren_nh_2022_re_mi.pdf"
+                    }
+                }
+            ],
+            "2023": [
+                {
+                    "name": "fren_nh_2023_dw",
+                    "path": "nh\\2023\\fren_nh_2023_dw.pdf",
+                    "mi": {
+                        "name": "fren_nh_2023_dw_mi",
+                        "path": "nh\\2023\\fren_nh_2023_dw_mi.pdf"
+                    }
+                },
+                {
+                    "name": "fren_nh_2023_li",
+                    "path": "nh\\2023\\fren_nh_2023_li.pdf",
+                    "mi": {
+                        "name": "fren_nh_2023_li_mi",
+                        "path": "nh\\2023\\fren_nh_2023_li_mi.pdf"
+                    },
+                    "sp": {
+                        "name": "fren_nh_2023_li_sp",
+                        "path": "nh\\2023\\fren_nh_2023_li_sp.pdf"
+                    }
+                },
+                {
+                    "name": "fren_nh_2023_re",
+                    "path": "nh\\2023\\fren_nh_2023_re.pdf",
+                    "mi": {
+                        "name": "fren_nh_2023_re_mi",
+                        "path": "nh\\2023\\fren_nh_2023_re_mi.pdf"
+                    }
+                }
+            ]
+        }
+    }
+}

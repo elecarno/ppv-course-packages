@@ -1,0 +1,47 @@
+{
+    "course": "prc",
+    "data": {
+        "n5": {
+            "2018": [
+                {
+                    "name": "prc_n5_2018_qp",
+                    "path": "n5\\2018\\prc_n5_2018_qp.pdf",
+                    "mi": {
+                        "name": "prc_n5_2018_qp_mi",
+                        "path": "n5\\2018\\prc_n5_2018_qp_mi.pdf"
+                    }
+                }
+            ],
+            "2019": [
+                {
+                    "name": "prc_n5_2019_qp",
+                    "path": "n5\\2019\\prc_n5_2019_qp.pdf",
+                    "mi": {
+                        "name": "prc_n5_2019_qp_mi",
+                        "path": "n5\\2019\\prc_n5_2019_qp_mi.pdf"
+                    }
+                }
+            ],
+            "2022": [
+                {
+                    "name": "prc_n5_2022_qp",
+                    "path": "n5\\2022\\prc_n5_2022_qp.pdf",
+                    "mi": {
+                        "name": "prc_n5_2022_qp_mi",
+                        "path": "n5\\2022\\prc_n5_2022_qp_mi.pdf"
+                    }
+                }
+            ],
+            "2023": [
+                {
+                    "name": "prc_n5_2023_qp",
+                    "path": "n5\\2023\\prc_n5_2023_qp.pdf",
+                    "mi": {
+                        "name": "prc_n5_2023_qp_mi",
+                        "path": "n5\\2023\\prc_n5_2023_qp_mi.pdf"
+                    }
+                }
+            ]
+        }
+    }
+}

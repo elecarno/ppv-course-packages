@@ -1,0 +1,235 @@
+{
+    "course": "ger",
+    "data": {
+        "ah": {
+            "2018": [
+                {
+                    "name": "ger_ah_2018_all",
+                    "path": "ah\\2018\\ger_ah_2018_all.pdf",
+                    "mi": {
+                        "name": "ger_ah_2018_all_mi",
+                        "path": "ah\\2018\\ger_ah_2018_all_mi.pdf"
+                    }
+                }
+            ],
+            "2019": [
+                {
+                    "name": "ger_ah_2019_all",
+                    "path": "ah\\2019\\ger_ah_2019_all.pdf",
+                    "mi": {
+                        "name": "ger_ah_2019_all_mi",
+                        "path": "ah\\2019\\ger_ah_2019_all_mi.pdf"
+                    }
+                }
+            ],
+            "2022": [
+                {
+                    "name": "ger_ah_2022_li_sp",
+                    "path": "ah\\2022\\ger_ah_2022_li_sp.pdf"
+                },
+                {
+                    "name": "ger_ah_2022_re",
+                    "path": "ah\\2022\\ger_ah_2022_re.pdf",
+                    "mi": {
+                        "name": "ger_ah_2022_re_mi",
+                        "path": "ah\\2022\\ger_ah_2022_re_mi.pdf"
+                    }
+                },
+                {
+                    "name": "ger_ah_2022_wr",
+                    "path": "ah\\2022\\ger_ah_2022_wr.pdf",
+                    "mi": {
+                        "name": "ger_ah_2022_wr_mi",
+                        "path": "ah\\2022\\ger_ah_2022_wr_mi.pdf"
+                    }
+                }
+            ],
+            "2023": [
+                {
+                    "name": "ger_ah_2023_li_sp",
+                    "path": "ah\\2023\\ger_ah_2023_li_sp.pdf"
+                },
+                {
+                    "name": "ger_ah_2023_re",
+                    "path": "ah\\2023\\ger_ah_2023_re.pdf",
+                    "mi": {
+                        "name": "ger_ah_2023_re_mi",
+                        "path": "ah\\2023\\ger_ah_2023_re_mi.pdf"
+                    }
+                },
+                {
+                    "name": "ger_ah_2023_wr",
+                    "path": "ah\\2023\\ger_ah_2023_wr.pdf",
+                    "mi": {
+                        "name": "ger_ah_2023_wr_mi",
+                        "path": "ah\\2023\\ger_ah_2023_wr_mi.pdf"
+                    }
+                }
+            ]
+        },
+        "n5": {
+            "2018": [
+                {
+                    "name": "ger_n5_2018_all",
+                    "path": "n5\\2018\\ger_n5_2018_all.pdf",
+                    "mi": {
+                        "name": "ger_n5_2018_all_mi",
+                        "path": "n5\\2018\\ger_n5_2018_all_mi.pdf"
+                    }
+                }
+            ],
+            "2019": [
+                {
+                    "name": "ger_n5_2019_all",
+                    "path": "n5\\2019\\ger_n5_2019_all.pdf",
+                    "mi": {
+                        "name": "ger_n5_2019_all_mi",
+                        "path": "n5\\2019\\ger_n5_2019_all_mi.pdf"
+                    }
+                }
+            ],
+            "2022": [
+                {
+                    "name": "ger_n5_2022_li",
+                    "path": "n5\\2022\\ger_n5_2022_li.pdf",
+                    "mi": {
+                        "name": "ger_n5_2022_li_mi",
+                        "path": "n5\\2022\\ger_n5_2022_li_mi.pdf"
+                    },
+                    "sp": {
+                        "name": "ger_n5_2022_li_sp",
+                        "path": "n5\\2022\\ger_n5_2022_li_sp.pdf"
+                    }
+                },
+                {
+                    "name": "ger_n5_2022_re",
+                    "path": "n5\\2022\\ger_n5_2022_re.pdf",
+                    "mi": {
+                        "name": "ger_n5_2022_re_mi",
+                        "path": "n5\\2022\\ger_n5_2022_re_mi.pdf"
+                    }
+                },
+                {
+                    "name": "ger_n5_2022_wr",
+                    "path": "n5\\2022\\ger_n5_2022_wr.pdf",
+                    "mi": {
+                        "name": "ger_n5_2022_wr_mi",
+                        "path": "n5\\2022\\ger_n5_2022_wr_mi.pdf"
+                    }
+                }
+            ],
+            "2023": [
+                {
+                    "name": "ger_n5_2023_li",
+                    "path": "n5\\2023\\ger_n5_2023_li.pdf",
+                    "mi": {
+                        "name": "ger_n5_2023_li_mi",
+                        "path": "n5\\2023\\ger_n5_2023_li_mi.pdf"
+                    },
+                    "sp": {
+                        "name": "ger_n5_2023_li_sp",
+                        "path": "n5\\2023\\ger_n5_2023_li_sp.pdf"
+                    }
+                },
+                {
+                    "name": "ger_n5_2023_re",
+                    "path": "n5\\2023\\ger_n5_2023_re.pdf",
+                    "mi": {
+                        "name": "ger_n5_2023_re_mi",
+                        "path": "n5\\2023\\ger_n5_2023_re_mi.pdf"
+                    }
+                },
+                {
+                    "name": "ger_n5_2023_wr",
+                    "path": "n5\\2023\\ger_n5_2023_wr.pdf",
+                    "mi": {
+                        "name": "ger_n5_2023_wr_mi",
+                        "path": "n5\\2023\\ger_n5_2023_wr_mi.pdf"
+                    }
+                }
+            ]
+        },
+        "nh": {
+            "2018": [
+                {
+                    "name": "ger_nh_2018_all",
+                    "path": "nh\\2018\\ger_nh_2018_all.pdf",
+                    "mi": {
+                        "name": "ger_nh_2018_all_mi",
+                        "path": "nh\\2018\\ger_nh_2018_all_mi.pdf"
+                    }
+                }
+            ],
+            "2019": [
+                {
+                    "name": "ger_nh_2019_all",
+                    "path": "nh\\2019\\ger_nh_2019_all.pdf",
+                    "mi": {
+                        "name": "ger_nh_2019_all_mi",
+                        "path": "nh\\2019\\ger_nh_2019_all_mi.pdf"
+                    }
+                }
+            ],
+            "2022": [
+                {
+                    "name": "ger_nh_2022_dw",
+                    "path": "nh\\2022\\ger_nh_2022_dw.pdf",
+                    "mi": {
+                        "name": "ger_nh_2022_dw_mi",
+                        "path": "nh\\2022\\ger_nh_2022_dw_mi.pdf"
+                    }
+                },
+                {
+                    "name": "ger_nh_2022_li",
+                    "path": "nh\\2022\\ger_nh_2022_li.pdf",
+                    "mi": {
+                        "name": "ger_nh_2022_li_mi",
+                        "path": "nh\\2022\\ger_nh_2022_li_mi.pdf"
+                    },
+                    "sp": {
+                        "name": "ger_nh_2022_li_sp",
+                        "path": "nh\\2022\\ger_nh_2022_li_sp.pdf"
+                    }
+                },
+                {
+                    "name": "ger_nh_2022_re",
+                    "path": "nh\\2022\\ger_nh_2022_re.pdf",
+                    "mi": {
+                        "name": "ger_nh_2022_re_mi",
+                        "path": "nh\\2022\\ger_nh_2022_re_mi.pdf"
+                    }
+                }
+            ],
+            "2023": [
+                {
+                    "name": "ger_nh_2023_dw",
+                    "path": "nh\\2023\\ger_nh_2023_dw.pdf",
+                    "mi": {
+                        "name": "ger_nh_2023_dw_mi",
+                        "path": "nh\\2023\\ger_nh_2023_dw_mi.pdf"
+                    }
+                },
+                {
+                    "name": "ger_nh_2023_li",
+                    "path": "nh\\2023\\ger_nh_2023_li.pdf",
+                    "mi": {
+                        "name": "ger_nh_2023_li_mi",
+                        "path": "nh\\2023\\ger_nh_2023_li_mi.pdf"
+                    },
+                    "sp": {
+                        "name": "ger_nh_2023_li_sp",
+                        "path": "nh\\2023\\ger_nh_2023_li_sp.pdf"
+                    }
+                },
+                {
+                    "name": "ger_nh_2023_re",
+                    "path": "nh\\2023\\ger_nh_2023_re.pdf",
+                    "mi": {
+                        "name": "ger_nh_2023_re_mi",
+                        "path": "nh\\2023\\ger_nh_2023_re_mi.pdf"
+                    }
+                }
+            ]
+        }
+    }
+}
