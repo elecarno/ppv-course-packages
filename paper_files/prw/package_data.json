@@ -1,6 +1,7 @@
 {
     "course": "prw",
     "data": {
+        "ah": [],
         "n5": {
             "2018": [
                 {
@@ -21,7 +22,18 @@
                         "path": "n5\\2019\\prw_n5_2019_qp_mi.pdf"
                     }
                 }
+            ],
+            "2024": [
+                {
+                    "name": "prw_n5_2024_qp",
+                    "path": "n5\\2024\\prw_n5_2024_qp.pdf",
+                    "mi": {
+                        "name": "prw_n5_2024_qp_mi",
+                        "path": "n5\\2024\\prw_n5_2024_qp_mi.pdf"
+                    }
+                }
             ]
-        }
+        },
+        "nh": []
     }
 }

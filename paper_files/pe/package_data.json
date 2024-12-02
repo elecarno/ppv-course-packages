@@ -1,6 +1,8 @@
 {
     "course": "pe",
     "data": {
+        "ah": [],
+        "n5": [],
         "nh": {
             "2018": [
                 {
@@ -39,6 +41,16 @@
                     "mi": {
                         "name": "pe_nh_2023_qp_mi",
                         "path": "nh\\2023\\pe_nh_2023_qp_mi.pdf"
+                    }
+                }
+            ],
+            "2024": [
+                {
+                    "name": "pe_nh_2024_qp",
+                    "path": "nh\\2024\\pe_nh_2024_qp.pdf",
+                    "mi": {
+                        "name": "pe_nh_2024_qp_mi",
+                        "path": "nh\\2024\\pe_nh_2024_qp_mi.pdf"
                     }
                 }
             ]

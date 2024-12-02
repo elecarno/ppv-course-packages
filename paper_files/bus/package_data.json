@@ -1,6 +1,22 @@
 {
     "course": "bus",
     "data": {
+        "ah": {
+            "2024": [
+                {
+                    "name": "bus_ah_2024_qp",
+                    "path": "ah\\2024\\bus_ah_2024_qp.pdf",
+                    "mi": {
+                        "name": "bus_ah_2024_qp_mi",
+                        "path": "ah\\2024\\bus_ah_2024_qp_mi.pdf"
+                    },
+                    "sp": {
+                        "name": "bus_ah_2024_qp_sp",
+                        "path": "ah\\2024\\bus_ah_2024_qp_sp.PDF"
+                    }
+                }
+            ]
+        },
         "n5": {
             "2018": [
                 {
@@ -51,6 +67,16 @@
                         "path": "n5\\2023\\bus_n5_2023_qp_mi.pdf"
                     }
                 }
+            ],
+            "2024": [
+                {
+                    "name": "bus_n5_2024_qp",
+                    "path": "n5\\2024\\bus_n5_2024_qp.pdf",
+                    "mi": {
+                        "name": "bus_n5_2024_qp_mi",
+                        "path": "n5\\2024\\bus_n5_2024_qp_mi.pdf"
+                    }
+                }
             ]
         },
         "nh": {
@@ -91,6 +117,16 @@
                     "mi": {
                         "name": "bus_nh_2023_qp_mi",
                         "path": "nh\\2023\\bus_nh_2023_qp_mi.pdf"
+                    }
+                }
+            ],
+            "2024": [
+                {
+                    "name": "bus_nh_2024_qp",
+                    "path": "nh\\2024\\bus_nh_2024_qp.pdf",
+                    "mi": {
+                        "name": "bus_nh_2024_qp_mi",
+                        "path": "nh\\2024\\bus_nh_2024_qp_mi.pdf"
                     }
                 }
             ]

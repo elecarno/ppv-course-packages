@@ -41,6 +41,16 @@
                         "path": "ah\\2023\\mod_ah_2023_qp_mi.pdf"
                     }
                 }
+            ],
+            "2024": [
+                {
+                    "name": "mod_ah_2024_qp",
+                    "path": "ah\\2024\\mod_ah_2024_qp.pdf",
+                    "mi": {
+                        "name": "mod_ah_2024_qp_mi",
+                        "path": "ah\\2024\\mod_ah_2024_qp_mi.pdf"
+                    }
+                }
             ]
         },
         "n5": {
@@ -81,6 +91,16 @@
                     "mi": {
                         "name": "mod_n5_2023_qp_mi",
                         "path": "n5\\2023\\mod_n5_2023_qp_mi.pdf"
+                    }
+                }
+            ],
+            "2024": [
+                {
+                    "name": "mod_n5_2024_qp",
+                    "path": "n5\\2024\\mod_n5_2024_qp.pdf",
+                    "mi": {
+                        "name": "mod_n5_2024_qp_mi",
+                        "path": "n5\\2024\\mod_n5_2024_qp_mi.pdf"
                     }
                 }
             ]
@@ -139,6 +159,24 @@
                     "mi": {
                         "name": "mod_nh_2023_p2_mi",
                         "path": "nh\\2023\\mod_nh_2023_p2_mi.pdf"
+                    }
+                }
+            ],
+            "2024": [
+                {
+                    "name": "mod_nh_2024_p1",
+                    "path": "nh\\2024\\mod_nh_2024_p1.pdf",
+                    "mi": {
+                        "name": "mod_nh_2024_p1_mi",
+                        "path": "nh\\2024\\mod_nh_2024_p1_mi.pdf"
+                    }
+                },
+                {
+                    "name": "mod_nh_2024_p2",
+                    "path": "nh\\2024\\mod_nh_2024_p2.pdf",
+                    "mi": {
+                        "name": "mod_nh_2024_p2_mi",
+                        "path": "nh\\2024\\mod_nh_2024_p2_mi.pdf"
                     }
                 }
             ]

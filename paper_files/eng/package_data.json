@@ -1,6 +1,18 @@
 {
     "course": "eng",
     "data": {
+        "ah": {
+            "2024": [
+                {
+                    "name": "eng_ah_2024_qp",
+                    "path": "ah\\2024\\eng_ah_2024_qp.pdf",
+                    "mi": {
+                        "name": "eng_ah_2024_qp_mi",
+                        "path": "ah\\2024\\eng_ah_2024_qp_mi.pdf"
+                    }
+                }
+            ]
+        },
         "n5": {
             "2018": [
                 {
@@ -55,6 +67,24 @@
                     "mi": {
                         "name": "eng_n5_2023_ru_mi",
                         "path": "n5\\2023\\eng_n5_2023_ru_mi.pdf"
+                    }
+                }
+            ],
+            "2024": [
+                {
+                    "name": "eng_n5_2024_cr",
+                    "path": "n5\\2024\\eng_n5_2024_cr.pdf",
+                    "mi": {
+                        "name": "eng_n5_2024_cr_mi",
+                        "path": "n5\\2024\\eng_n5_2024_cr_mi.pdf"
+                    }
+                },
+                {
+                    "name": "eng_n5_2024_ru",
+                    "path": "n5\\2024\\eng_n5_2024_ru.pdf",
+                    "mi": {
+                        "name": "eng_n5_2024_ru_mi",
+                        "path": "n5\\2024\\eng_n5_2024_ru_mi.pdf"
                     }
                 }
             ]
@@ -121,6 +151,24 @@
                     "sp": {
                         "name": "eng_nh_2023_ru_sp",
                         "path": "nh\\2023\\eng_nh_2023_ru_sp.pdf"
+                    }
+                }
+            ],
+            "2024": [
+                {
+                    "name": "eng_nh_2024_cr",
+                    "path": "nh\\2024\\eng_nh_2024_cr.pdf",
+                    "mi": {
+                        "name": "eng_nh_2024_cr_mi",
+                        "path": "nh\\2024\\eng_nh_2024_cr_mi.pdf"
+                    }
+                },
+                {
+                    "name": "eng_nh_2024_ru",
+                    "path": "nh\\2024\\eng_nh_2024_ru.pdf",
+                    "mi": {
+                        "name": "eng_nh_2024_ru_mi",
+                        "path": "nh\\2024\\eng_nh_2024_ru_mi.pdf"
                     }
                 }
             ]

@@ -42,6 +42,16 @@
                         "path": "n5\\2023\\med_n5_2023_qp_mi.pdf"
                     }
                 }
+            ],
+            "2024": [
+                {
+                    "name": "med_n5_2024_qp",
+                    "path": "n5\\2024\\med_n5_2024_qp.pdf",
+                    "mi": {
+                        "name": "med_n5_2024_qp_mi",
+                        "path": "n5\\2024\\med_n5_2024_qp_mi.pdf"
+                    }
+                }
             ]
         },
         "nh": {
@@ -99,6 +109,24 @@
                         "name": "med_nh_2023_rm_mi",
                         "path": "nh\\2023\\med_nh_2023_rm_mi.pdf"
                     }
+                }
+            ],
+            "2024": [
+                {
+                    "name": "med_nh_2024_am",
+                    "path": "nh\\2024\\med_nh_2024_am.pdf",
+                    "mi": {
+                        "name": "med_nh_2024_am_mi",
+                        "path": "nh\\2024\\med_nh_2024_am_mi.pdf"
+                    }
+                },
+                {
+                    "name": "med_nh_2024_qp_mi",
+                    "path": "nh\\2024\\med_nh_2024_qp_mi.pdf"
+                },
+                {
+                    "name": "med_nh_2024_rm",
+                    "path": "nh\\2024\\med_nh_2024_rm.pdf"
                 }
             ]
         }

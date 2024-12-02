@@ -49,6 +49,16 @@
                         "path": "ah\\2023\\phys_ah_2023_qp_sp.pdf"
                     }
                 }
+            ],
+            "2024": [
+                {
+                    "name": "phys_ah_2024_qp",
+                    "path": "ah\\2024\\phys_ah_2024_qp.pdf",
+                    "mi": {
+                        "name": "phys_ah_2024_qp_mi",
+                        "path": "ah\\2024\\phys_ah_2024_qp_mi.pdf"
+                    }
+                }
             ]
         },
         "n5": {
@@ -123,6 +133,24 @@
                         "path": "n5\\2023\\phys_n5_2023_s2_sp.pdf"
                     }
                 }
+            ],
+            "2024": [
+                {
+                    "name": "phys_n5_2024_qp",
+                    "path": "n5\\2024\\phys_n5_2024_qp.pdf",
+                    "mi": {
+                        "name": "phys_n5_2024_qp_mi",
+                        "path": "n5\\2024\\phys_n5_2024_qp_mi.pdf"
+                    }
+                },
+                {
+                    "name": "phys_n5_2024_s1",
+                    "path": "n5\\2024\\phys_n5_2024_s1.pdf"
+                },
+                {
+                    "name": "phys_n5_2024_s2",
+                    "path": "n5\\2024\\phys_n5_2024_s2.pdf"
+                }
             ]
         },
         "nh": {
@@ -195,6 +223,24 @@
                     "sp": {
                         "name": "phys_nh_2023_p2_sp",
                         "path": "nh\\2023\\phys_nh_2023_p2_sp.pdf"
+                    }
+                }
+            ],
+            "2024": [
+                {
+                    "name": "phys_nh_2024_p1",
+                    "path": "nh\\2024\\phys_nh_2024_p1.pdf",
+                    "mi": {
+                        "name": "phys_nh_2024_p1_mi",
+                        "path": "nh\\2024\\phys_nh_2024_p1_mi.pdf"
+                    }
+                },
+                {
+                    "name": "phys_nh_2024_p2",
+                    "path": "nh\\2024\\phys_nh_2024_p2.pdf",
+                    "mi": {
+                        "name": "phys_nh_2024_p2_mi",
+                        "path": "nh\\2024\\phys_nh_2024_p2_mi.pdf"
                     }
                 }
             ]

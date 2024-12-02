@@ -57,6 +57,24 @@
                         "path": "ah\\2023\\bio_ah_2023_s2_mi.pdf"
                     }
                 }
+            ],
+            "2024": [
+                {
+                    "name": "bio_ah_2024_qp",
+                    "path": "ah\\2024\\bio_ah_2024_qp.pdf",
+                    "mi": {
+                        "name": "bio_ah_2024_qp_mi",
+                        "path": "ah\\2024\\bio_ah_2024_qp_mi.pdf"
+                    }
+                },
+                {
+                    "name": "bio_ah_2024_s1",
+                    "path": "ah\\2024\\bio_ah_2024_s1.pdf"
+                },
+                {
+                    "name": "bio_ah_2024_s2",
+                    "path": "ah\\2024\\bio_ah_2024_s2.pdf"
+                }
             ]
         },
         "n5": {
@@ -115,6 +133,20 @@
                         "path": "n5\\2023\\bio_n5_2023_s2_mi.pdf"
                     }
                 }
+            ],
+            "2024": [
+                {
+                    "name": "bio_n5_2024_qp_mi",
+                    "path": "n5\\2024\\bio_n5_2024_qp_mi.pdf"
+                },
+                {
+                    "name": "bio_n5_2024_s1",
+                    "path": "n5\\2024\\bio_n5_2024_s1.pdf"
+                },
+                {
+                    "name": "bio_n5_2024_s2",
+                    "path": "n5\\2024\\bio_n5_2024_s2.pdf"
+                }
             ]
         },
         "nh": {
@@ -171,6 +203,24 @@
                     "mi": {
                         "name": "bio_nh_2023_p2_mi",
                         "path": "nh\\2023\\bio_nh_2023_p2_mi.pdf"
+                    }
+                }
+            ],
+            "2024": [
+                {
+                    "name": "bio_nh_2024_p1",
+                    "path": "nh\\2024\\bio_nh_2024_p1.pdf",
+                    "mi": {
+                        "name": "bio_nh_2024_p1_mi",
+                        "path": "nh\\2024\\bio_nh_2024_p1_mi.pdf"
+                    }
+                },
+                {
+                    "name": "bio_nh_2024_p2",
+                    "path": "nh\\2024\\bio_nh_2024_p2.pdf",
+                    "mi": {
+                        "name": "bio_nh_2024_p2_mi",
+                        "path": "nh\\2024\\bio_nh_2024_p2_mi.pdf"
                     }
                 }
             ]

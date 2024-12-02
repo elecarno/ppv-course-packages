@@ -57,6 +57,24 @@
                         "path": "ah\\2023\\chem_ah_2023_s2_mi.pdf"
                     }
                 }
+            ],
+            "2024": [
+                {
+                    "name": "chem_ah_2024_s1",
+                    "path": "ah\\2024\\chem_ah_2024_s1.pdf",
+                    "mi": {
+                        "name": "chem_ah_2024_s1_mi",
+                        "path": "ah\\2024\\chem_ah_2024_s1_mi.pdf"
+                    }
+                },
+                {
+                    "name": "chem_ah_2024_s2",
+                    "path": "ah\\2024\\chem_ah_2024_s2.pdf",
+                    "mi": {
+                        "name": "chem_ah_2024_s2_mi",
+                        "path": "ah\\2024\\chem_ah_2024_s2_mi.pdf"
+                    }
+                }
             ]
         },
         "n5": {
@@ -115,6 +133,24 @@
                         "path": "n5\\2023\\chem_n5_2023_s2_mi.pdf"
                     }
                 }
+            ],
+            "2024": [
+                {
+                    "name": "chem_n5_2024_s1",
+                    "path": "n5\\2024\\chem_n5_2024_s1.pdf",
+                    "mi": {
+                        "name": "chem_n5_2024_s1_mi",
+                        "path": "n5\\2024\\chem_n5_2024_s1_mi.pdf"
+                    }
+                },
+                {
+                    "name": "chem_n5_2024_s2",
+                    "path": "n5\\2024\\chem_n5_2024_s2.pdf",
+                    "mi": {
+                        "name": "chem_n5_2024_s2_mi",
+                        "path": "n5\\2024\\chem_n5_2024_s2_mi.pdf"
+                    }
+                }
             ]
         },
         "nh": {
@@ -171,6 +207,24 @@
                     "mi": {
                         "name": "chem_nh_2023_p2_mi",
                         "path": "nh\\2023\\chem_nh_2023_p2_mi.pdf"
+                    }
+                }
+            ],
+            "2024": [
+                {
+                    "name": "chem_nh_2024_p1",
+                    "path": "nh\\2024\\chem_nh_2024_p1.pdf",
+                    "mi": {
+                        "name": "chem_nh_2024_p1_mi",
+                        "path": "nh\\2024\\chem_nh_2024_p1_mi.pdf"
+                    }
+                },
+                {
+                    "name": "chem_nh_2024_p2",
+                    "path": "nh\\2024\\chem_nh_2024_p2.pdf",
+                    "mi": {
+                        "name": "chem_nh_2024_p2_mi",
+                        "path": "nh\\2024\\chem_nh_2024_p2_mi.pdf"
                     }
                 }
             ]

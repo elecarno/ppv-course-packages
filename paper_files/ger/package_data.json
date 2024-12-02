@@ -65,6 +65,28 @@
                         "path": "ah\\2023\\ger_ah_2023_wr_mi.pdf"
                     }
                 }
+            ],
+            "2024": [
+                {
+                    "name": "ger_ah_2024_li",
+                    "path": "ah\\2024\\ger_ah_2024_li.pdf"
+                },
+                {
+                    "name": "ger_ah_2024_re",
+                    "path": "ah\\2024\\ger_ah_2024_re.pdf",
+                    "mi": {
+                        "name": "ger_ah_2024_re_mi",
+                        "path": "ah\\2024\\ger_ah_2024_re_mi.pdf"
+                    }
+                },
+                {
+                    "name": "ger_ah_2024_wr",
+                    "path": "ah\\2024\\ger_ah_2024_wr.pdf",
+                    "mi": {
+                        "name": "ger_ah_2024_wr_mi",
+                        "path": "ah\\2024\\ger_ah_2024_wr_mi.pdf"
+                    }
+                }
             ]
         },
         "n5": {
@@ -147,6 +169,32 @@
                         "path": "n5\\2023\\ger_n5_2023_wr_mi.pdf"
                     }
                 }
+            ],
+            "2024": [
+                {
+                    "name": "ger_n5_2024_li",
+                    "path": "n5\\2024\\ger_n5_2024_li.pdf",
+                    "mi": {
+                        "name": "ger_n5_2024_li_mi",
+                        "path": "n5\\2024\\ger_n5_2024_li_mi.pdf"
+                    }
+                },
+                {
+                    "name": "ger_n5_2024_re",
+                    "path": "n5\\2024\\ger_n5_2024_re.pdf",
+                    "mi": {
+                        "name": "ger_n5_2024_re_mi",
+                        "path": "n5\\2024\\ger_n5_2024_re_mi.pdf"
+                    }
+                },
+                {
+                    "name": "ger_n5_2024_wr",
+                    "path": "n5\\2024\\ger_n5_2024_wr.pdf",
+                    "mi": {
+                        "name": "ger_n5_2024_wr_mi",
+                        "path": "n5\\2024\\ger_n5_2024_wr_mi.pdf"
+                    }
+                }
             ]
         },
         "nh": {
@@ -227,6 +275,32 @@
                     "mi": {
                         "name": "ger_nh_2023_re_mi",
                         "path": "nh\\2023\\ger_nh_2023_re_mi.pdf"
+                    }
+                }
+            ],
+            "2024": [
+                {
+                    "name": "ger_nh_2024_dw",
+                    "path": "nh\\2024\\ger_nh_2024_dw.pdf",
+                    "mi": {
+                        "name": "ger_nh_2024_dw_mi",
+                        "path": "nh\\2024\\ger_nh_2024_dw_mi.pdf"
+                    }
+                },
+                {
+                    "name": "ger_nh_2024_li",
+                    "path": "nh\\2024\\ger_nh_2024_li.pdf",
+                    "mi": {
+                        "name": "ger_nh_2024_li_mi",
+                        "path": "nh\\2024\\ger_nh_2024_li_mi.pdf"
+                    }
+                },
+                {
+                    "name": "ger_nh_2024_re",
+                    "path": "nh\\2024\\ger_nh_2024_re.pdf",
+                    "mi": {
+                        "name": "ger_nh_2024_re_mi",
+                        "path": "nh\\2024\\ger_nh_2024_re_mi.pdf"
                     }
                 }
             ]

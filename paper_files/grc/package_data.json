@@ -1,6 +1,18 @@
 {
     "course": "grc",
     "data": {
+        "ah": {
+            "2024": [
+                {
+                    "name": "grc_ah_2024_qp",
+                    "path": "ah\\2024\\grc_ah_2024_qp.pdf",
+                    "mi": {
+                        "name": "grc_ah_2024_qp_mi",
+                        "path": "ah\\2024\\grc_ah_2024_qp_mi.pdf"
+                    }
+                }
+            ]
+        },
         "n5": {
             "2018": [
                 {
@@ -43,6 +55,16 @@
                     "sp": {
                         "name": "grc_n5_2023_qp_sp",
                         "path": "n5\\2023\\grc_n5_2023_qp_sp.pdf"
+                    }
+                }
+            ],
+            "2024": [
+                {
+                    "name": "grc_n5_2024_qp",
+                    "path": "n5\\2024\\grc_n5_2024_qp.pdf",
+                    "mi": {
+                        "name": "grc_n5_2024_qp_mi",
+                        "path": "n5\\2024\\grc_n5_2024_qp_mi.pdf"
                     }
                 }
             ]
@@ -93,6 +115,16 @@
                     "sp": {
                         "name": "grc_nh_2023_qp_sp",
                         "path": "nh\\2023\\grc_nh_2023_qp_sp.pdf"
+                    }
+                }
+            ],
+            "2024": [
+                {
+                    "name": "grc_nh_2024_qp",
+                    "path": "nh\\2024\\grc_nh_2024_qp.pdf",
+                    "mi": {
+                        "name": "grc_nh_2024_qp_mi",
+                        "path": "nh\\2024\\grc_nh_2024_qp_mi.pdf"
                     }
                 }
             ]

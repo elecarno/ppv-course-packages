@@ -1,6 +1,6 @@
 import os
 
-directory = "DIR"
+directory = "spa"
 
 keywords = {
     "N5": "n5",
@@ -20,6 +20,8 @@ types = {
     "Section-2": "s2",
     # English
     "Critical Reading": "cr",
+    "Critical-Reading": "cr",
+    "Textual Analysis": "cr",
     "Reading-for-Understanding-Analysis-and-Evaluation": "ru",
     # Modern Languages
     "Listening-Transcript": "li_sp",

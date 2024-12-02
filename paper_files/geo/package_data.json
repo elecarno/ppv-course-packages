@@ -49,6 +49,16 @@
                         "path": "ah\\2023\\geo_ah_2023_qp_sp.pdf"
                     }
                 }
+            ],
+            "2024": [
+                {
+                    "name": "geo_ah_2024_qp",
+                    "path": "ah\\2024\\geo_ah_2024_qp.pdf",
+                    "mi": {
+                        "name": "geo_ah_2024_qp_mi",
+                        "path": "ah\\2024\\geo_ah_2024_qp_mi.pdf"
+                    }
+                }
             ]
         },
         "n5": {
@@ -98,6 +108,20 @@
                         "name": "geo_n5_2023_qp_sp",
                         "path": "n5\\2023\\geo_n5_2023_qp_sp.pdf"
                     }
+                }
+            ],
+            "2024": [
+                {
+                    "name": "geo_n5_2024_qp",
+                    "path": "n5\\2024\\geo_n5_2024_qp.pdf",
+                    "mi": {
+                        "name": "geo_n5_2024_qp_mi",
+                        "path": "n5\\2024\\geo_n5_2024_qp_mi.pdf"
+                    }
+                },
+                {
+                    "name": "geo_n5_2024_sp",
+                    "path": "n5\\2024\\geo_n5_2024_sp.pdf"
                 }
             ]
         },
@@ -172,6 +196,28 @@
                         "name": "geo_nh_2023_ph_sp",
                         "path": "nh\\2023\\geo_nh_2023_ph_sp.pdf"
                     }
+                }
+            ],
+            "2024": [
+                {
+                    "name": "geo_nh_2024_gg",
+                    "path": "nh\\2024\\geo_nh_2024_gg.pdf",
+                    "mi": {
+                        "name": "geo_nh_2024_gg_mi",
+                        "path": "nh\\2024\\geo_nh_2024_gg_mi.pdf"
+                    }
+                },
+                {
+                    "name": "geo_nh_2024_ph",
+                    "path": "nh\\2024\\geo_nh_2024_ph.pdf",
+                    "mi": {
+                        "name": "geo_nh_2024_ph_mi",
+                        "path": "nh\\2024\\geo_nh_2024_ph_mi.pdf"
+                    }
+                },
+                {
+                    "name": "geo_nh_2024_sp",
+                    "path": "nh\\2024\\geo_nh_2024_sp.pdf"
                 }
             ]
         }

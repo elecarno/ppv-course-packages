@@ -41,6 +41,16 @@
                         "path": "ah\\2023\\his_ah_2023_qp_mi.pdf"
                     }
                 }
+            ],
+            "2024": [
+                {
+                    "name": "his_ah_2024_qp",
+                    "path": "ah\\2024\\his_ah_2024_qp.pdf",
+                    "mi": {
+                        "name": "his_ah_2024_qp_mi",
+                        "path": "ah\\2024\\his_ah_2024_qp_mi.pdf"
+                    }
+                }
             ]
         },
         "n5": {
@@ -81,6 +91,16 @@
                     "mi": {
                         "name": "his_n5_2023_qp_mi",
                         "path": "n5\\2023\\his_n5_2023_qp_mi.pdf"
+                    }
+                }
+            ],
+            "2024": [
+                {
+                    "name": "his_n5_2024_qp",
+                    "path": "n5\\2024\\his_n5_2024_qp.pdf",
+                    "mi": {
+                        "name": "his_n5_2024_qp_mi",
+                        "path": "n5\\2024\\his_n5_2024_qp_mi.pdf"
                     }
                 }
             ]
@@ -135,6 +155,24 @@
                     "mi": {
                         "name": "his_nh_2023_sh_mi",
                         "path": "nh\\2023\\his_nh_2023_sh_mi.pdf"
+                    }
+                }
+            ],
+            "2024": [
+                {
+                    "name": "his_nh_2024_bw",
+                    "path": "nh\\2024\\his_nh_2024_bw.pdf",
+                    "mi": {
+                        "name": "his_nh_2024_bw_mi",
+                        "path": "nh\\2024\\his_nh_2024_bw_mi.pdf"
+                    }
+                },
+                {
+                    "name": "his_nh_2024_sh",
+                    "path": "nh\\2024\\his_nh_2024_sh.pdf",
+                    "mi": {
+                        "name": "his_nh_2024_sh_mi",
+                        "path": "nh\\2024\\his_nh_2024_sh_mi.pdf"
                     }
                 }
             ]

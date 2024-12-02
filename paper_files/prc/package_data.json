@@ -41,6 +41,16 @@
                         "path": "n5\\2023\\prc_n5_2023_qp_mi.pdf"
                     }
                 }
+            ],
+            "2024": [
+                {
+                    "name": "prc_n5_2024_qp",
+                    "path": "n5\\2024\\prc_n5_2024_qp.PDF",
+                    "mi": {
+                        "name": "prc_n5_2024_qp_mi",
+                        "path": "n5\\2024\\prc_n5_2024_qp_mi.PDF"
+                    }
+                }
             ]
         }
     }
